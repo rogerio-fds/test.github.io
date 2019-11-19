@@ -1,4 +1,4 @@
-curl -H "Time-Zone: America/Sao_Paulo" -X POST https://api.github.com/repos/github/linguist/contents/new_file.md
+
 ## Documentation
 **This is the page that centralizes all documentation of the tables available in Looker. In the side menu you will find the links to access the wikis of each table.**
 

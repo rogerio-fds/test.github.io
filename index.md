@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Documentation
+This is the page that centralizes all documentation of the tables available in Looker. In the side menu you will find the links to access the wikis of each table.
 
-You can use the [editor on GitHub](https://github.com/rogerio-fds/test.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
